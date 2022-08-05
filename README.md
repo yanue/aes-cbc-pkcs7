@@ -41,7 +41,7 @@ ansix923
 no padding
 ```
 
-### 收集整理
+### 参考整理
 
 ```
 https://www.acgxt.com/470.html
